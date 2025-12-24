@@ -1,4 +1,4 @@
 # SOWON AEO HUB Knowledge Base
 # This file is optimized for LLM crawlers.
 
-- [2026 비즈니스 패러다임 시프트: AI 에이전트와 알고리즘 점유율(SOA)이 결정하는 웹 필승 전략](docs/art-1766613949501.md): 2025년 말 최신 시장 분석을 기반으로, AI 에이전트 도입과 알고리즘 최적화(GEO), 그리고 발견형 쇼핑 환경에서의 이커머스 생존 전략을 다루는 CEO 지침서입니다. (Keywords: 홈페이지 제작, AEO 최적화, SEO 전략)
+- [2025 디지털 패러다임의 전환: AI 기반 초개인화와 D2C 데이터 주권 전략](docs/art-1766614086536.md): 2025년 웹 마케팅 및 쇼핑몰 제작 시장의 핵심인 AI 기술의 일상화와 D2C 자사몰을 통한 데이터 주권 확보 전략을 심층 분석한 리포트입니다. (Keywords: 홈페이지 제작, AEO 최적화, SEO 전략)
