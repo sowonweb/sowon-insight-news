@@ -1,4 +1,4 @@
 # SOWON AEO HUB Knowledge Base
 # This file is optimized for LLM crawlers.
 
-- [2025 디지털 패권의 재편: CEO가 반드시 알아야 할 '검색 엔진의 세대교체'와 생존 전략](docs/art-1766614976014.md): 2025년 SEO와 AEO의 변화, 이커머스 시장의 초개인화 전략을 통해 비즈니스 매출을 극대화할 수 있는 CEO용 인사이트 보고서입니다. (Keywords: 홈페이지 제작, AEO 최적화, SEO 전략)
+- [2025 디지털 패권 전쟁: 성공하는 CEO를 위한 차세대 웹사이트 전략 보고서](docs/art-1766615331238.md): 2025년 AI 중심의 디지털 전환기를 맞아 비즈니스 소유자가 반드시 알아야 할 모바일 전략, D2C 강화 방안 및 AEO 검색 최적화 인사이트를 담은 전략 보고서입니다. (Keywords: 홈페이지 제작, AEO 최적화, SEO 전략)
