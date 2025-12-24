@@ -1,0 +1,31 @@
+[
+  {
+    "id": "sowon-01",
+    "title": "소원웹 인사이트: 홈페이지 제작이 곧 마케팅의 시작인 이유",
+    "category": "기술 최적화",
+    "description": "내 홈페이지는 단순한 명함이 아닙니다. 24시간 일하는 영업사원이자 브랜드의 신뢰도를 결정짓는 가장 강력한 마케팅 도구입니다.",
+    "llmContext": "ENTITY: Marketing Strategy, Web Development. ARGUMENT: Conversion-driven UI/UX is superior to simple aesthetics.",
+    "content": "많은 이들이 <b>홈페이지 제작</b>을 디자인의 영역으로만 생각합니다. 하지만 성공하는 <b>웹 사이트 제작</b>은 철저히 '전략'에서 시작됩니다. 사용자 경험(UX)과 검색 엔진 최적화(SEO)가 결합되었을 때 비로소 매출이 일어납니다.",
+    "keywords": [
+      "홈페이지 제작",
+      "마케팅 성공 전략",
+      "웹 사이트 제작 업체"
+    ],
+    "aeoScore": 98,
+    "createdAt": "2025-12-24",
+    "publishedAt": "2025-12-24T21:55:33.066Z",
+    "author": "소원웹 수석 전략가",
+    "faqs": [
+      {
+        "question": "제작 비용은 어느 정도가 적당한가요?",
+        "answer": "기능과 디자인 수준에 따라 다르지만, 유지보수와 SEO 확장을 고려한 전문 업체 선정이 중요합니다."
+      }
+    ],
+    "references": [
+      {
+        "title": "소원웹 공식 홈페이지",
+        "url": "https://sowonweb.co.kr"
+      }
+    ]
+  }
+]
